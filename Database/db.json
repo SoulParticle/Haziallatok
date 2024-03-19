@@ -1,0 +1,341 @@
+{
+  "gazda": [
+
+      {
+        "Nev": "Sallai András"
+      },
+      {
+        "Nev": "Jáger Attila"
+      },
+      {
+        "Nev": "Rékasi József"
+      },
+      {
+        "Nev": "Bálint Dezső"
+      },
+      {
+        "Nev": "Józsa Béla"
+      },
+      {
+        "Nev": "Szekeres András "
+      }
+    
+
+  ],
+  "haziallatok": 
+    [
+      {
+        "Név": "Bello",
+        "Faj": "Kutya",
+        "Kor": "3",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Luna",
+        "Faj": "Macska",
+        "Kor": "2",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Max",
+        "Faj": "Kutya",
+        "Kor": "5",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Whiskers",
+        "Faj": "Macska",
+        "Kor": "1",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Rocky",
+        "Faj": "Kutya",
+        "Kor": "4",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Molly",
+        "Faj": "Macska",
+        "Kor": "6",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Charlie",
+        "Faj": "Kutya",
+        "Kor": "2",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Lucy",
+        "Faj": "Macska",
+        "Kor": "4",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Buddy",
+        "Faj": "Kutya",
+        "Kor": "7",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Oreo",
+        "Faj": "Macska",
+        "Kor": "3",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Daisy",
+        "Faj": "Kutya",
+        "Kor": "1",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Simba",
+        "Faj": "Macska",
+        "Kor": "5",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Buster",
+        "Faj": "Kutya",
+        "Kor": "4",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Milo",
+        "Faj": "Macska",
+        "Kor": "2",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Bailey",
+        "Faj": "Kutya",
+        "Kor": "6",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Smokey",
+        "Faj": "Macska",
+        "Kor": "8",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Sadie",
+        "Faj": "Kutya",
+        "Kor": "2",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Ziggy",
+        "Faj": "Macska",
+        "Kor": "3",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Toby",
+        "Faj": "Kutya",
+        "Kor": "5",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Coco",
+        "Faj": "Macska",
+        "Kor": "4",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Bear",
+        "Faj": "Kutya",
+        "Kor": "1",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Oscar",
+        "Faj": "Macska",
+        "Kor": "2",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Duke",
+        "Faj": "Kutya",
+        "Kor": "4",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Gizmo",
+        "Faj": "Macska",
+        "Kor": "6",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Harley",
+        "Faj": "Kutya",
+        "Kor": "3",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Jasper",
+        "Faj": "Macska",
+        "Kor": "5",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Rosie",
+        "Faj": "Kutya",
+        "Kor": "4",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Shadow",
+        "Faj": "Macska",
+        "Kor": "2",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Bailey",
+        "Faj": "Kutya",
+        "Kor": "7",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Sunny",
+        "Faj": "Macska",
+        "Kor": "3",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Lola",
+        "Faj": "Kutya",
+        "Kor": "2",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Chloe",
+        "Faj": "Macska",
+        "Kor": "4",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Flopsy",
+        "Faj": "Nyúl",
+        "Kor": "1",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Nemo",
+        "Faj": "Hal",
+        "Kor": "2",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Sheldon",
+        "Faj": "Teknős",
+        "Kor": "5",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Bugs",
+        "Faj": "Nyúl",
+        "Kor": "3",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Dory",
+        "Faj": "Hal",
+        "Kor": "4",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Speedy",
+        "Faj": "Teknős",
+        "Kor": "2",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Thumper",
+        "Faj": "Nyúl",
+        "Kor": "1",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Fin",
+        "Faj": "Hal",
+        "Kor": "3",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Leonardo",
+        "Faj": "Teknős",
+        "Kor": "6",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Snowball",
+        "Faj": "Nyúl",
+        "Kor": "2",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Gill",
+        "Faj": "Hal",
+        "Kor": "4",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Raphael",
+        "Faj": "Teknős",
+        "Kor": "5",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Hazel",
+        "Faj": "Nyúl",
+        "Kor": "3",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Marlin",
+        "Faj": "Hal",
+        "Kor": "1",
+        "GazdaId": "4"
+      },
+      {
+        "Név": "Michelangelo",
+        "Faj": "Teknős",
+        "Kor": "7",
+        "GazdaId": "5"
+      },
+      {
+        "Név": "Cotton",
+        "Faj": "Nyúl",
+        "Kor": "2",
+        "GazdaId": "6"
+      },
+      {
+        "Név": "Bruce",
+        "Faj": "Hal",
+        "Kor": "4",
+        "GazdaId": "1"
+      },
+      {
+        "Név": "Squirt",
+        "Faj": "Teknős",
+        "Kor": "3",
+        "GazdaId": "2"
+      },
+      {
+        "Név": "Daisy",
+        "Faj": "Nyúl",
+        "Kor": "1",
+        "GazdaId": "3"
+      },
+      {
+        "Név": "Nigel",
+        "Faj": "Hal",
+        "Kor": "5",
+        "GazdaId": "4"
+      }
+    
+  ]
+}
